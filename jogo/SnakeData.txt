@@ -1,0 +1,5 @@
+High Score Facil: 1
+High Score Medio: 4
+High Score Dificil: 5
+Games Played: 47
+Apples Eaten: 11
